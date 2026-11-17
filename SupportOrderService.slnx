@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SupportOrderService.Core/SupportOrderService.Core.csproj" />
+  <Project Path="SupportOrderService.Infrastructure/SupportOrderService.Infrastructure.csproj" />
+  <Project Path="SupportOrderService.Web/SupportOrderService.Web.csproj" />
+</Solution>
